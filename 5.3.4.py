@@ -18,5 +18,3 @@ while True:
     stoptime = datetime.datetime.now()
     interval = stoptime - starttime
     print(interval)
-print("ffff")
-
